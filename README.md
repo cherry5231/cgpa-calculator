@@ -1,4 +1,9 @@
 # CGPA Goal Predictor 🎯
+## license
+Copyright (c) 2026 Katta Charan
+All rights reserved.
+
+This software and associated documentation files may not be copied, modified, distributed, or used without explicit permission from the author.
 ## website  link for cgpa calculator made by me
 https://kattacharan.pythonanywhere.com/
 copy pase this url in browser
