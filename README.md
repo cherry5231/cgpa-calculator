@@ -31,3 +31,7 @@ The app calculates the SGPA required in remaining semesters.
 ## How it Works
 Uses cumulative GPA formula to back-calculate required SGPA.
 
+## Author
+K. Charan  
+GitHub: https://github.com/cherry5231
+
