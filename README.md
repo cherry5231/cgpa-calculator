@@ -1,5 +1,7 @@
 # CGPA Goal Predictor 🎯
-
+## website  link for cgpa calculator made by me
+https://kattacharan.pythonanywhere.com/
+copy pase this url in browser
 ## Description
 A web application that helps students determine the SGPA they need in future semesters to achieve a desired CGPA.
 
